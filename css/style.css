@@ -437,3 +437,7 @@ img{max-width: 100%;}
 .content_t h2, .content_t p {
 	color: white !important;
 }
+
+.sponsors-row img{
+	padding: 0 50px;
+}
